@@ -18,6 +18,8 @@ main {
     height: 380px;
     border-radius: 10px;
     overflow: hidden;
+    margin-top: 8rem;
+    margin-bottom: 10%;
 }
 
 .image-container {
