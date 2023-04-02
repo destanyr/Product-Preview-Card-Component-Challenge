@@ -16,9 +16,6 @@ main {
     max-width: 90%;
     width: 500px;
     height: 380px;
-    margin: 0 auto;
-    margin-top: 8rem;
-    margin-bottom: 10%;
     border-radius: 10px;
     overflow: hidden;
 }
